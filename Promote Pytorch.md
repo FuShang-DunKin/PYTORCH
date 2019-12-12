@@ -1,4 +1,6 @@
 # How to Promote Your Level of PYTORCH
+pip install torch torchvision  -i https://pypi.doubanio.com/simple
+
 1、掌握基础的Deep Learning 知识原理
 
 2、留意PyTorch官方Tutorial
@@ -12,4 +14,5 @@
 6、阅读paper about Model of Deep Learning以及论文复现
 
 7、创建自己的模型,书写自己的article
+
 # Don't repeat yourself ! ! !
