@@ -12,5 +12,4 @@
 6、阅读paper about Model of Deep Learning以及论文复现
 
 7、创建自己的模型,书写自己的article
-
-#Don't repeat yourself
+# Don't repeat yourself ! ! !
